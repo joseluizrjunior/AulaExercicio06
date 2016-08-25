@@ -1,3 +1,3 @@
 # AulaExercicio06
 
-Arquivo inicial
+Muita dificuldade para usar o Eclipse 
