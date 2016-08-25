@@ -1,3 +1,3 @@
-# AulaExercicio06
+# AulaExercicio05
 
-Muita dificuldade para usar o Eclipse 
+Versão Atual do Projeto
